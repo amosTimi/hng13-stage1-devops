@@ -1,9 +1,0 @@
-🚀 Deployment started at Tue Oct 21 11:02:35 AM EDT 2025
-🔗 Enter Git repository URL: 🔑 Enter your GitHub Personal Access Token (PAT): 🌿 Enter branch name [default: main]: 👤 Remote SSH username: 🌍 Remote server IP: 🗝️ Path to SSH private key (e.g., ~/.ssh/id_rsa): 📦 Enter application internal port (e.g., 5000): ✅ All parameters captured successfully.
-📥 Repository already exists. Pulling latest changes...
-From https://github.com/amosTimi/hng13-stage1-devops
- * branch            master     -> FETCH_HEAD
-Already up to date.
-✅ Docker configuration found.
-🔌 Testing SSH connection to 127.0.0.1...
-❌ SSH connection failed. Check credentials or key path.
